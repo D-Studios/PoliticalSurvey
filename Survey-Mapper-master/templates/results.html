@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+    </head>
+    <body>
+        <div id=results>
+        <h1>Survey Mapper</h1>
+        <p>Minimum Viable Product Edition</p>
+        <h3>Recent User Results:</h3>
+        {% for user in users %}
+            <a href="{{ url_for('user_results',user_id=user) }}">{{user}}</a><br><br>
+        {% endfor %}
+        </div>
+    </body>
+</html>

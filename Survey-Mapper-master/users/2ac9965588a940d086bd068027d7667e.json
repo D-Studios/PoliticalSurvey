@@ -1,0 +1,176 @@
+{
+  "2ac9965588a940d086bd068027d7667e": {
+    "user_data": {
+      "fname": "a",
+      "lname": "a",
+      "city": "a",
+      "state": "a",
+      "country": "a",
+      "ssn": "aasdf"
+    },
+    "current_question": 31,
+    "question_data": [
+      [
+        "People should not be discriminated against based on intrinsic qualities in any capacity.",
+        "equality",
+        6
+      ],
+      [
+        "A citizen's primary concern is with his/her nation and then the world.",
+        "nation",
+        1
+      ],
+      [
+        "Scientific thought should be pursued at all costs",
+        "progress",
+        3
+      ],
+      [
+        "The freedom to succeed is the freedom to fail.",
+        "liberty",
+        4
+      ],
+      [
+        "Progress should be pursued, even at the expense of tradition",
+        "progress",
+        4
+      ],
+      [
+        "It is the government's job to ensure the populace's wellbeing through any means necessary and to any extent.",
+        "authority",
+        6
+      ],
+      [
+        "The world should progress to a one world government of sorts.",
+        "world",
+        3
+      ],
+      [
+        "There is minimal physical and mental difference between people of different races.",
+        "equality",
+        5
+      ],
+      [
+        "We are heading to a better world.",
+        "progress",
+        1
+      ],
+      [
+        "Victimless crimes should not be illegal.",
+        "liberty",
+        5
+      ],
+      [
+        "I should follow my country even when they take paths I disagree with.",
+        "nation",
+        4
+      ],
+      [
+        "Maintaining order is more important than preserving all freedoms.",
+        "authority",
+        5
+      ],
+      [
+        "The only person who I trust to look out for myself is me.",
+        "liberty",
+        3
+      ],
+      [
+        "All countries should be held to the same legal standard and follow international law.",
+        "world",
+        6
+      ],
+      [
+        "People of all groups should be well represented",
+        "equality",
+        3
+      ],
+      [
+        "From each according to his ability, to each according to his needs",
+        "equality",
+        4
+      ],
+      [
+        "National governments must be kept in check by the global community by any means necessary.",
+        "world",
+        3
+      ],
+      [
+        "Everyone is a citizen of the world and should act accordingly.",
+        "world",
+        5
+      ],
+      [
+        "A large portion of people are unable to make good decisions for themselves",
+        "authority",
+        5
+      ],
+      [
+        "Cultural values should be preserved and nurtured for future generations",
+        "tradition",
+        1
+      ],
+      [
+        "Government is run by people with unchecked power",
+        "liberty",
+        7
+      ],
+      [
+        "The invisible hand is a better market operator than the government controlling the economy",
+        "market",
+        1
+      ],
+      [
+        "Scientific thought is not the end all be all. It is wrong at times.",
+        "tradition",
+        4
+      ],
+      [
+        "The state has no right to have any say in any voluntary exchanges, unless they are a part of said exchanges.",
+        "market",
+        4
+      ],
+      [
+        "Unrestricted markets will result in everyone becoming wealthier.",
+        "market",
+        3
+      ],
+      [
+        "The government should have supreme power on policy during times of crisis.",
+        "authority",
+        4
+      ],
+      [
+        "I am proud to be born in my country",
+        "nation",
+        3
+      ],
+      [
+        "Rampant consumerism, degeneracy and selfishness is all too common in society.",
+        "tradition",
+        5
+      ],
+      [
+        "Transhumanism and human augmentation are good things.",
+        "progress",
+        1
+      ],
+      [
+        "The international community does not have an understanding of my country's politics.",
+        "world",
+        6
+      ],
+      [
+        "New change should be implemented slowly",
+        "tradition",
+        6
+      ]
+    ],
+    "results": {
+      "Economic": 57.0,
+      "Diplomatic": 42.0,
+      "Civil": 50.0,
+      "Societal": 58.0
+    }
+  }
+}

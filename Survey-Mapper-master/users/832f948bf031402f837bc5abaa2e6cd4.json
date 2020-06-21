@@ -1,0 +1,176 @@
+{
+  "832f948bf031402f837bc5abaa2e6cd4": {
+    "user_data": {
+      "fname": "j",
+      "lname": "b",
+      "city": "lkj",
+      "state": "i",
+      "country": "j",
+      "ssn": "Blinding Lights"
+    },
+    "current_question": 0,
+    "question_data": [
+      [
+        "I should follow my country even when they take paths I disagree with.",
+        "nation",
+        null
+      ],
+      [
+        "The world should progress to a one world government of sorts.",
+        "world",
+        null
+      ],
+      [
+        "There is minimal physical and mental difference between people of different races.",
+        "equality",
+        null
+      ],
+      [
+        "We are heading to a better world.",
+        "progress",
+        null
+      ],
+      [
+        "People should not be discriminated against based on intrinsic qualities in any capacity.",
+        "equality",
+        null
+      ],
+      [
+        "Scientific thought should be pursued at all costs",
+        "progress",
+        null
+      ],
+      [
+        "Scientific thought is not the end all be all. It is wrong at times.",
+        "tradition",
+        null
+      ],
+      [
+        "Government is run by people with unchecked power",
+        "liberty",
+        null
+      ],
+      [
+        "People of all groups should be well represented",
+        "equality",
+        null
+      ],
+      [
+        "A citizen's primary concern is with his/her nation and then the world.",
+        "nation",
+        null
+      ],
+      [
+        "Unrestricted markets will result in everyone becoming wealthier.",
+        "market",
+        null
+      ],
+      [
+        "From each according to his ability, to each according to his needs",
+        "equality",
+        null
+      ],
+      [
+        "All countries should be held to the same legal standard and follow international law.",
+        "world",
+        null
+      ],
+      [
+        "The invisible hand is a better market operator than the government controlling the economy",
+        "market",
+        null
+      ],
+      [
+        "It is the government's job to ensure the populace's wellbeing through any means necessary and to any extent.",
+        "authority",
+        null
+      ],
+      [
+        "The only person who I trust to look out for myself is me.",
+        "liberty",
+        null
+      ],
+      [
+        "Cultural values should be preserved and nurtured for future generations",
+        "tradition",
+        null
+      ],
+      [
+        "A large portion of people are unable to make good decisions for themselves",
+        "authority",
+        null
+      ],
+      [
+        "The government should have supreme power on policy during times of crisis.",
+        "authority",
+        null
+      ],
+      [
+        "Everyone is a citizen of the world and should act accordingly.",
+        "world",
+        null
+      ],
+      [
+        "The international community does not have an understanding of my country's politics.",
+        "world",
+        null
+      ],
+      [
+        "The freedom to succeed is the freedom to fail.",
+        "liberty",
+        null
+      ],
+      [
+        "Rampant consumerism, degeneracy and selfishness is all too common in society.",
+        "tradition",
+        null
+      ],
+      [
+        "Transhumanism and human augmentation are good things.",
+        "progress",
+        null
+      ],
+      [
+        "National governments must be kept in check by the global community by any means necessary.",
+        "world",
+        null
+      ],
+      [
+        "I am proud to be born in my country",
+        "nation",
+        null
+      ],
+      [
+        "Maintaining order is more important than preserving all freedoms.",
+        "authority",
+        null
+      ],
+      [
+        "The state has no right to have any say in any voluntary exchanges, unless they are a part of said exchanges.",
+        "market",
+        null
+      ],
+      [
+        "New change should be implemented slowly",
+        "tradition",
+        null
+      ],
+      [
+        "Progress should be pursued, even at the expense of tradition",
+        "progress",
+        null
+      ],
+      [
+        "Victimless crimes should not be illegal.",
+        "liberty",
+        null
+      ]
+    ],
+    "results": {
+      "Economic": null,
+      "Diplomatic": null,
+      "Civil": null,
+      "Societal": null
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "51101a512c8042c7b57c8771f765eb30": {
+    "user_data": {
+      "fname": "asdf",
+      "lname": "asdf",
+      "city": "asdf",
+      "state": "asdf",
+      "country": "asdf",
+      "ssn": "asdfasdf"
+    },
+    "current_question": 1,
+    "question_data": [
+      [
+        "A citizen's primary concern is with his/her nation and then the world.",
+        "nation",
+        3
+      ],
+      [
+        "The international community does not have an understanding of my country's politics.",
+        "world",
+        null
+      ],
+      [
+        "Victimless crimes should not be illegal.",
+        "liberty",
+        null
+      ],
+      [
+        "We are heading to a better world.",
+        "progress",
+        null
+      ],
+      [
+        "National governments must be kept in check by the global community by any means necessary.",
+        "world",
+        null
+      ],
+      [
+        "Scientific thought should be pursued at all costs",
+        "progress",
+        null
+      ],
+      [
+        "Transhumanism and human augmentation are good things.",
+        "progress",
+        null
+      ],
+      [
+        "New change should be implemented slowly",
+        "tradition",
+        null
+      ],
+      [
+        "Everyone is a citizen of the world and should act accordingly.",
+        "world",
+        null
+      ],
+      [
+        "Maintaining order is more important than preserving all freedoms.",
+        "authority",
+        null
+      ],
+      [
+        "The world should progress to a one world government of sorts.",
+        "world",
+        null
+      ],
+      [
+        "The state has no right to have any say in any voluntary exchanges, unless they are a part of said exchanges.",
+        "market",
+        null
+      ],
+      [
+        "The only person who I trust to look out for myself is me.",
+        "liberty",
+        null
+      ],
+      [
+        "It is the government's job to ensure the populace's wellbeing through any means necessary and to any extent.",
+        "authority",
+        null
+      ],
+      [
+        "People of all groups should be well represented",
+        "equality",
+        null
+      ],
+      [
+        "Scientific thought is not the end all be all. It is wrong at times.",
+        "tradition",
+        null
+      ],
+      [
+        "Unrestricted markets will result in everyone becoming wealthier.",
+        "market",
+        null
+      ],
+      [
+        "The government should have supreme power on policy during times of crisis.",
+        "authority",
+        null
+      ],
+      [
+        "I should follow my country even when they take paths I disagree with.",
+        "nation",
+        null
+      ],
+      [
+        "All countries should be held to the same legal standard and follow international law.",
+        "world",
+        null
+      ],
+      [
+        "From each according to his ability, to each according to his needs",
+        "equality",
+        null
+      ],
+      [
+        "Rampant consumerism, degeneracy and selfishness is all too common in society.",
+        "tradition",
+        null
+      ],
+      [
+        "Cultural values should be preserved and nurtured for future generations",
+        "tradition",
+        null
+      ],
+      [
+        "The invisible hand is a better market operator than the government controlling the economy",
+        "market",
+        null
+      ],
+      [
+        "The freedom to succeed is the freedom to fail.",
+        "liberty",
+        null
+      ],
+      [
+        "People should not be discriminated against based on intrinsic qualities in any capacity.",
+        "equality",
+        null
+      ],
+      [
+        "I am proud to be born in my country",
+        "nation",
+        null
+      ],
+      [
+        "There is minimal physical and mental difference between people of different races.",
+        "equality",
+        null
+      ],
+      [
+        "Progress should be pursued, even at the expense of tradition",
+        "progress",
+        null
+      ],
+      [
+        "A large portion of people are unable to make good decisions for themselves",
+        "authority",
+        null
+      ],
+      [
+        "Government is run by people with unchecked power",
+        "liberty",
+        null
+      ]
+    ],
+    "results": {
+      "Economic": null,
+      "Diplomatic": null,
+      "Civil": null,
+      "Societal": null
+    }
+  }
+}

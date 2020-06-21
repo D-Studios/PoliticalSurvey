@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+    </head>
+    <body>
+        <div id=results>
+        <h1>Survey Mapper</h1>
+        <p>Minimum Viable Product Edition</p>
+        <h3>{{fname+' '+lname}}'s Results:</h3>
+        <p>{{economic_leaning}}: +{{economic}}pts</p>
+        <p>{{diplomatic_leaning}}: +{{diplomatic}}pts</p>
+        <p>{{civil_leaning}}: +{{civil}}pts</p>
+        <p>{{societal_leaning}}: +{{societal}}pts</p>
+        <h3>User Location: </h3>
+        <p>{{city}}, {{state}}</p>
+        <p>{{country}}</p>
+        </div>
+    </body>
+</html>

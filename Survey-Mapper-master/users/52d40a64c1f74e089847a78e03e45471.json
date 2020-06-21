@@ -1,0 +1,176 @@
+{
+  "52d40a64c1f74e089847a78e03e45471": {
+    "user_data": {
+      "fname": "Hello",
+      "lname": "B",
+      "city": "Fre",
+      "state": "Cali",
+      "country": "USA",
+      "ssn": "abcd"
+    },
+    "current_question": 31,
+    "question_data": [
+      [
+        "I should follow my country even when they take paths I disagree with.",
+        "nation",
+        4
+      ],
+      [
+        "Transhumanism and human augmentation are good things.",
+        "progress",
+        5
+      ],
+      [
+        "From each according to his ability, to each according to his needs",
+        "equality",
+        5
+      ],
+      [
+        "Scientific thought should be pursued at all costs",
+        "progress",
+        1
+      ],
+      [
+        "A citizen's primary concern is with his/her nation and then the world.",
+        "nation",
+        3
+      ],
+      [
+        "The only person who I trust to look out for myself is me.",
+        "liberty",
+        4
+      ],
+      [
+        "Victimless crimes should not be illegal.",
+        "liberty",
+        5
+      ],
+      [
+        "People of all groups should be well represented",
+        "equality",
+        3
+      ],
+      [
+        "There is minimal physical and mental difference between people of different races.",
+        "equality",
+        4
+      ],
+      [
+        "The government should have supreme power on policy during times of crisis.",
+        "authority",
+        3
+      ],
+      [
+        "Scientific thought is not the end all be all. It is wrong at times.",
+        "tradition",
+        3
+      ],
+      [
+        "Unrestricted markets will result in everyone becoming wealthier.",
+        "market",
+        1
+      ],
+      [
+        "The state has no right to have any say in any voluntary exchanges, unless they are a part of said exchanges.",
+        "market",
+        5
+      ],
+      [
+        "I am proud to be born in my country",
+        "nation",
+        5
+      ],
+      [
+        "Rampant consumerism, degeneracy and selfishness is all too common in society.",
+        "tradition",
+        4
+      ],
+      [
+        "Everyone is a citizen of the world and should act accordingly.",
+        "world",
+        3
+      ],
+      [
+        "The international community does not have an understanding of my country's politics.",
+        "world",
+        4
+      ],
+      [
+        "The freedom to succeed is the freedom to fail.",
+        "liberty",
+        3
+      ],
+      [
+        "The world should progress to a one world government of sorts.",
+        "world",
+        5
+      ],
+      [
+        "Cultural values should be preserved and nurtured for future generations",
+        "tradition",
+        3
+      ],
+      [
+        "All countries should be held to the same legal standard and follow international law.",
+        "world",
+        3
+      ],
+      [
+        "It is the government's job to ensure the populace's wellbeing through any means necessary and to any extent.",
+        "authority",
+        5
+      ],
+      [
+        "New change should be implemented slowly",
+        "tradition",
+        7
+      ],
+      [
+        "The invisible hand is a better market operator than the government controlling the economy",
+        "market",
+        1
+      ],
+      [
+        "We are heading to a better world.",
+        "progress",
+        4
+      ],
+      [
+        "A large portion of people are unable to make good decisions for themselves",
+        "authority",
+        1
+      ],
+      [
+        "Progress should be pursued, even at the expense of tradition",
+        "progress",
+        3
+      ],
+      [
+        "Government is run by people with unchecked power",
+        "liberty",
+        4
+      ],
+      [
+        "People should not be discriminated against based on intrinsic qualities in any capacity.",
+        "equality",
+        5
+      ],
+      [
+        "Maintaining order is more important than preserving all freedoms.",
+        "authority",
+        6
+      ],
+      [
+        "National governments must be kept in check by the global community by any means necessary.",
+        "world",
+        1
+      ]
+    ],
+    "results": {
+      "Economic": 58.0,
+      "Diplomatic": 55.0,
+      "Civil": 52.0,
+      "Societal": 56.0
+    }
+  }
+}

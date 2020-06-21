@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+    </head>
+    <body>
+        <div id=survey>
+        <h1>Survey Mapper</h1>
+        <p>Minimum Viable Product Edition</p>
+        <form method="POST" style="text-align:left;width:3in;">
+            <h3>Question:<br> {{question}}</h3>
+            <p><input type="radio" name="question" value="7">  Strongly Agree</p>
+            <p><input type="radio" name="question" value="6">  Agree</p>
+            <p><input type="radio" name="question" value="5">  Slightly Agree</p>
+            <p><input type="radio" name="question" value="4">  Neutral</p>
+            <p><input type="radio" name="question" value="3">  Slightly Disagree</p>
+            <p><input type="radio" name="question" value="3">  Disagree</p>
+            <p><input type="radio" name="question" value="1">  Strongly Disagree</p>
+            <input type="submit">
+            <p>Question {{question_number+1}}/31</p>
+        </form>
+        </div>
+    </body>
+</html>

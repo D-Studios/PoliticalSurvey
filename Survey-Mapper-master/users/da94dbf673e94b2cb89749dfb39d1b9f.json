@@ -1,0 +1,176 @@
+{
+  "da94dbf673e94b2cb89749dfb39d1b9f": {
+    "user_data": {
+      "fname": "DB",
+      "lname": "69420",
+      "city": "Fremont",
+      "state": "CA",
+      "country": null,
+      "ssn": "1010010102341234"
+    },
+    "current_question": 31,
+    "question_data": [
+      [
+        "Unrestricted markets will result in everyone becoming wealthier.",
+        "market",
+        7
+      ],
+      [
+        "All countries should be held to the same legal standard and follow international law.",
+        "world",
+        7
+      ],
+      [
+        "People of all groups should be well represented",
+        "equality",
+        7
+      ],
+      [
+        "I should follow my country even when they take paths I disagree with.",
+        "nation",
+        7
+      ],
+      [
+        "From each according to his ability, to each according to his needs",
+        "equality",
+        7
+      ],
+      [
+        "National governments must be kept in check by the global community by any means necessary.",
+        "world",
+        7
+      ],
+      [
+        "The only person who I trust to look out for myself is me.",
+        "liberty",
+        6
+      ],
+      [
+        "The international community does not have an understanding of my country's politics.",
+        "world",
+        7
+      ],
+      [
+        "Scientific thought is not the end all be all. It is wrong at times.",
+        "tradition",
+        6
+      ],
+      [
+        "I am proud to be born in my country",
+        "nation",
+        4
+      ],
+      [
+        "It is the government's job to ensure the populace's wellbeing through any means necessary and to any extent.",
+        "authority",
+        4
+      ],
+      [
+        "A citizen's primary concern is with his/her nation and then the world.",
+        "nation",
+        6
+      ],
+      [
+        "New change should be implemented slowly",
+        "tradition",
+        3
+      ],
+      [
+        "Everyone is a citizen of the world and should act accordingly.",
+        "world",
+        5
+      ],
+      [
+        "Scientific thought should be pursued at all costs",
+        "progress",
+        7
+      ],
+      [
+        "Rampant consumerism, degeneracy and selfishness is all too common in society.",
+        "tradition",
+        1
+      ],
+      [
+        "A large portion of people are unable to make good decisions for themselves",
+        "authority",
+        3
+      ],
+      [
+        "Transhumanism and human augmentation are good things.",
+        "progress",
+        5
+      ],
+      [
+        "Progress should be pursued, even at the expense of tradition",
+        "progress",
+        6
+      ],
+      [
+        "Maintaining order is more important than preserving all freedoms.",
+        "authority",
+        7
+      ],
+      [
+        "There is minimal physical and mental difference between people of different races.",
+        "equality",
+        3
+      ],
+      [
+        "The state has no right to have any say in any voluntary exchanges, unless they are a part of said exchanges.",
+        "market",
+        5
+      ],
+      [
+        "Cultural values should be preserved and nurtured for future generations",
+        "tradition",
+        3
+      ],
+      [
+        "The freedom to succeed is the freedom to fail.",
+        "liberty",
+        3
+      ],
+      [
+        "Government is run by people with unchecked power",
+        "liberty",
+        5
+      ],
+      [
+        "Victimless crimes should not be illegal.",
+        "liberty",
+        6
+      ],
+      [
+        "The invisible hand is a better market operator than the government controlling the economy",
+        "market",
+        3
+      ],
+      [
+        "People should not be discriminated against based on intrinsic qualities in any capacity.",
+        "equality",
+        5
+      ],
+      [
+        "The government should have supreme power on policy during times of crisis.",
+        "authority",
+        1
+      ],
+      [
+        "We are heading to a better world.",
+        "progress",
+        7
+      ],
+      [
+        "The world should progress to a one world government of sorts.",
+        "world",
+        4
+      ]
+    ],
+    "results": {
+      "Economic": 54.0,
+      "Diplomatic": 43.0,
+      "Civil": 55.0,
+      "Societal": 35.0
+    }
+  }
+}
