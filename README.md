@@ -1,5 +1,4 @@
-# Survey-Mapper
-###### What I do when sleep deprived
+# PoliticalSurvey
 
 [![Run on Repl.it](https://repl.it/badge/github/KinoZampie/Survey-Mapper)](https://repl.it/github/KinoZampie/Survey-Mapper)
 
